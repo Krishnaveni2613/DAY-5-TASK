@@ -38,3 +38,5 @@ The document object represents the web page loaded in the browser window. It is 
 - *document*: Represents the HTML document loaded in the window; provides methods and properties to interact with and manipulate the document content.
 
 These objects are essential for creating dynamic and interactive web pages by allowing scripts to interact with the browser and the loaded content."# DAY-5-TASK" 
+"# DAY-5-TASK" 
+"# DAY-5-TASK" 
