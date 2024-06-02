@@ -40,3 +40,5 @@ The document object represents the web page loaded in the browser window. It is 
 These objects are essential for creating dynamic and interactive web pages by allowing scripts to interact with the browser and the loaded content."# DAY-5-TASK" 
 "# DAY-5-TASK" 
 "# DAY-5-TASK" 
+"# DAY-5-TASK" 
+"# Day-5-Task" 
